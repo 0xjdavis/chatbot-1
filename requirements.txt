@@ -2,7 +2,7 @@ streamlit
 openai
 
 os
-llama_index
+llama-index
 typing
 ipython
 colorama
