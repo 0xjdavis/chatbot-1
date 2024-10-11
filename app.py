@@ -1,5 +1,5 @@
 import os
-import stramlit as st
+import streamlit as st
 from llama_index.embeddings.mistralai import MistralAIEmbedding
 from llama_index.core import Settings
 from pinecone import Pinecone, ServerlessSpec
