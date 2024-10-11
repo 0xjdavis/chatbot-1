@@ -1,2 +1,9 @@
 streamlit
 openai
+
+os
+streamlit as st
+llama_index
+typing
+ipython
+colorama
