@@ -1,5 +1,7 @@
 import os
 import streamlit as st
+import llama-index as llama_index
+
 from llama_index.embeddings.mistralai import MistralAIEmbedding
 from llama_index.core import Settings
 from pinecone import Pinecone, ServerlessSpec
